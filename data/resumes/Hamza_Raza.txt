@@ -1,0 +1,7 @@
+Hamza Raza
+Email: hamza.raza@example.com | Islamabad, Pakistan
+Education: BS Computer Science, FAST NUCES (CGPA 3.3)
+Experience: Machine Learning Intern for 6 months. Trained classification models, tuned hyperparameters, and deployed a model
+with Streamlit and Docker. Worked with Pandas, NumPy and Scikit-learn every day. Used Git and GitHub for team projects.
+Projects: Image classifier in TensorFlow, loan default prediction, text classification with TF-IDF.
+Skills: Python, machine learning, Scikit-learn, TensorFlow, deep learning, Pandas, NumPy, SQL, Docker, Streamlit, Git, GitHub, NLP, Jupyter

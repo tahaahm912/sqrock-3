@@ -1,0 +1,7 @@
+Usman Sheikh
+Email: usman.sheikh@example.com | Lahore, Pakistan
+Education: BS Computer Science, COMSATS University (CGPA 3.1)
+Experience: 4 months internship in data analysis. Used Python, Pandas and Matplotlib to clean and visualize datasets. Basic Scikit-learn models
+(linear regression, decision tree). Built a Power BI report for a university society.
+Projects: Student performance predictor, Titanic survival prediction, COVID-19 data dashboard.
+Skills: Python, Pandas, NumPy, Matplotlib, Scikit-learn, Power BI, SQL, Jupyter, Git, machine learning

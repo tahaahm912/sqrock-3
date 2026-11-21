@@ -1,0 +1,7 @@
+Hassan Butt
+Email: hassan.butt@example.com | Lahore, Pakistan
+Education: BS Computer Science, University of the Punjab
+Experience: Junior Python developer for 1 year. Wrote backend services in Django, worked with PostgreSQL and SQL, and wrote a few data cleaning scripts
+with Pandas. Completed an online machine learning course and built two small Scikit-learn projects.
+Projects: Inventory management system (Django), house price prediction, web scraper.
+Skills: Python, Django, PostgreSQL, SQL, Pandas, Scikit-learn, Git, GitHub, REST API, machine learning

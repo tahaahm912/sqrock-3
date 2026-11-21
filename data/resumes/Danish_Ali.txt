@@ -1,0 +1,5 @@
+Danish Ali
+Email: danish.ali@example.com | Peshawar, Pakistan
+Education: BS Electrical Engineering, UET Peshawar
+Experience: Embedded systems engineer for 2 years. Wrote C and C++ firmware for microcontrollers, designed circuits, and tested sensors.
+Skills: C, C++, embedded systems, Arduino, circuit design, MATLAB, communication

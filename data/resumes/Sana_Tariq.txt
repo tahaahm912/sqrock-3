@@ -1,0 +1,7 @@
+Sana Tariq
+Email: sana.tariq@example.com | Karachi, Pakistan
+Education: MS Statistics, University of Karachi
+Experience: Data Analyst for 2 years at a bank. Wrote SQL queries, built Tableau dashboards, ran statistical tests and regression analysis
+in Python and Pandas. Presented monthly findings to management.
+Projects: Credit risk analysis, A/B testing report, exploratory data analysis of customer transactions.
+Skills: Python, SQL, Tableau, statistics, Pandas, NumPy, Matplotlib, Seaborn, regression, data analysis, Excel, communication, problem solving

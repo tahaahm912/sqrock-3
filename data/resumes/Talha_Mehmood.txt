@@ -1,0 +1,5 @@
+Talha Mehmood
+Email: talha.mehmood@example.com | Lahore, Pakistan
+Education: BS Information Technology, University of Lahore
+Experience: Network administrator for 3 years. Managed routers, switches, firewalls and VPN setup. Troubleshot network outages.
+Skills: Networking, Cisco, firewall, VPN, Linux, troubleshooting, Windows Server, CCNA

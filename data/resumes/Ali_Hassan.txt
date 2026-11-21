@@ -1,0 +1,7 @@
+Ali Hassan
+Email: ali.hassan@example.com | Rawalpindi, Pakistan
+Education: BS Data Science, NUST (CGPA 3.8)
+Experience: Research assistant for 1 year working on deep learning for medical images with PyTorch. Data Science intern for 6 months, built churn and
+forecasting models with Scikit-learn, wrote SQL, and used Git and GitHub. Presented results to the team every two weeks.
+Projects: Chest X-ray classifier (PyTorch), demand forecasting, NLP sentiment analysis with TF-IDF and logistic regression.
+Skills: Python, PyTorch, deep learning, machine learning, Scikit-learn, Pandas, NumPy, SQL, NLP, statistics, Matplotlib, Seaborn, Jupyter, Git, GitHub, Docker

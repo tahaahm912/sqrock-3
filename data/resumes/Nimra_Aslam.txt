@@ -1,0 +1,6 @@
+Nimra Aslam
+Email: nimra.aslam@example.com | Sialkot, Pakistan
+Education: BS Mathematics, Government College University
+Experience: Math tutor for 3 years. Fresh graduate in data science courses. Completed Python, statistics and machine learning online courses.
+Projects: Linear regression on housing data, iris classification, simple Jupyter notebooks.
+Skills: Python, statistics, mathematics, Pandas, NumPy, Matplotlib, Jupyter, machine learning basics, communication

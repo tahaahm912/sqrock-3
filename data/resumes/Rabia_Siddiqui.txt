@@ -1,0 +1,7 @@
+Rabia Siddiqui
+Email: rabia.siddiqui@example.com | Lahore, Pakistan
+Education: BS Statistics, Forman Christian College (CGPA 3.5)
+Experience: Data analytics intern for 5 months. Cleaned survey data in Python and Pandas, built regression models, created Tableau dashboards, and wrote
+SQL queries. Learned Scikit-learn and Git during the internship.
+Projects: Survey analysis, student dropout prediction, sales dashboard.
+Skills: Python, Pandas, NumPy, SQL, Tableau, statistics, regression, Scikit-learn, Matplotlib, Seaborn, Git, communication
